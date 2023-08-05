@@ -16,12 +16,17 @@
 | Adaptive Evolution Strategies for Stochastic Zeroth-Order Optimization | IEEE TETCI  | 2022 | _He et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/9718120)] [[code](https://github.com/hxyokokok/SES)] |  |
 | Riemannian Natural Gradient Methods | arkiv  | 2022 | _Hu et al._ | [[paper](https://arxiv.org/abs/2207.07287)] [[code](https://github.com/hiroyuki-kasai/RSOpt)] |  |
 | Mirror Natural Evolution Strategies | arkiv  | 2023 | _Ye et al._ | [[paper](https://arxiv.org/abs/2308.00469)] |  |
+| Decentralized projected Riemannian gradient method for smooth optimization on compact submanifolds | arkiv  | 2023 | _Deng et al._ | [[paper](https://arxiv.org/abs/2304.08241)] |  |
+| Decentralized Riemannian natural gradient methods with Kronecker-product approximations | arkiv  | 2023 | _Hu et al._ | [[paper](https://arxiv.org/abs/2303.09611)] |  |
 
 # Learn-to-Optimize
 | Paper Title                                                  | Venue | Year | Authors        | Materials                                                    | Comment                                                      |
 | ------------------------------------------------------------ | ----- | ---- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Explainable AI via Learning to Optimize | arkiv  | 2022 | _Heaton et al._ | [[paper](https://arxiv.org/abs/2204.14174)] [[code](https://github.com/typal-research/xai-l2o)] |  |
-| Learning to Optimize: A Primer and A Benchmark | arkiv  | 2021 | _Chen et al._ | [[paper](https://arxiv.org/abs/2103.12828)] [[code](https://github.com/VITA-Group/Open-L2O)] |  |
+| Transformer-Based Learned Optimization | CVPR | 2023 | _Gärtner et al._ | [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Gartner_Transformer-Based_Learned_Optimization_CVPR_2023_paper.html)] |  |
+| Discovering Evolution Strategies via Meta-Black-Box Optimization | ICLR | 2023 | _Lange et al._ | [[paper](https://arxiv.org/abs/2211.11260)] |  |
+| Discovering Attention-Based Genetic Algorithms via Meta-Black-Box Optimization | gecco | 2023 | _Lange et al._ | [[paper](https://dl.acm.org/doi/abs/10.1145/3583131.3590496)] |  |
+| Explainable AI via Learning to Optimize | Scientific Reports  | 2023 | _Heaton et al._ | [[paper](https://arxiv.org/abs/2204.14174)] [[code](https://github.com/typal-research/xai-l2o)] |  |
+| Learning to Optimize: A Primer and A Benchmark | JMLR  | 2022 | _Chen et al._ | [[paper](https://arxiv.org/abs/2103.12828)] [[code](https://github.com/VITA-Group/Open-L2O)] |  |
 | Learning A Minimax Optimizer: A Pilot Study | ICLR  | 2021 | _Shen et al._ | [[paper](https://openreview.net/forum?id=nkIDwI6oO4_)] [[code](https://github.com/VITA-Group/L2O-Minimax)] |  |
 | Meta Learning Black-Box Population-Based Optimizers | arkiv  | 2021 | _SGomes et al._ | [[paper](https://arxiv.org/abs/2103.03526)] [[code](https://github.com/optimization-toolbox)] |  |
 | Meta-Learning the Search Distribution of Black-Box Random Search Based Adversarial Attacks | NIPS  | 2021 | _Yatsura et al._ | [[paper](https://proceedings.neurips.cc/paper/2021/hash/fdb55ce855129e05da8374059cc82728-Abstract.html)] [[code](https://github.com/boschresearch/meta-rs)] |  |
