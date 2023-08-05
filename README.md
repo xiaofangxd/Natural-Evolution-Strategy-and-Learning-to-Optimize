@@ -15,6 +15,7 @@
 | General Univariate Estimation-of-Distribution Algorithms | PPSN  | 2022 | _Doerr et al._ | [[paper](https://link.springer.com/chapter/10.1007/978-3-031-14721-0_33)] |  |
 | Adaptive Evolution Strategies for Stochastic Zeroth-Order Optimization | IEEE TETCI  | 2022 | _He et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/9718120)] [[code](https://github.com/hxyokokok/SES)] |  |
 | Riemannian Natural Gradient Methods | arkiv  | 2022 | _Hu et al._ | [[paper](https://arxiv.org/abs/2207.07287)] [[code](https://github.com/hiroyuki-kasai/RSOpt)] |  |
+| Mirror Natural Evolution Strategies | arkiv  | 2023 | _Ye et al._ | [[paper](https://arxiv.org/abs/2308.00469)] |  |
 
 # Learn-to-Optimize
 | Paper Title                                                  | Venue | Year | Authors        | Materials                                                    | Comment                                                      |
